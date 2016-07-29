@@ -1,4 +1,3 @@
-layout_spectrum: 0.11205886770039797
 typography_spectrum: 0.3620887896977365
 color:
   brandStrength: 0.2576022916473448
@@ -11,8 +10,10 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: Hotel Cala Santany
+layout_spectrum: 0.11205886770039797
+name: Mark Site Testing Grid
 navigation:
   - name: Marketing Agency
     url: 'http://www.marksite-agency.com'
     type: external
+title: We make your business grow
