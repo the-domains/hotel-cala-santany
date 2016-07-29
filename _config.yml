@@ -1,16 +1,16 @@
-typography_spectrum: 0.3620887896977365
+typography_spectrum: 0.37751933676190674
 color:
-  brandStrength: 0.2576022916473448
-  lightness: 0.607370032928884
-  saturation: 0.7868062809575349
-  rhythmicContrast: 0.2468105680309236
+  brandStrength: 0.7416268636006862
+  lightness: 0.5652004540897906
+  saturation: 0.499440785497427
+  rhythmicContrast: 0.9762029957491904
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.11205886770039797
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+layout_spectrum: 0.35437509324401617
 name: Mark Site Testing Grid
 navigation:
   - name: Marketing Agency
