@@ -6,9 +6,13 @@ color:
   saturation: 0.7868062809575349
   rhythmicContrast: 0.2468105680309236
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Hotel Cala Santany
+navigation:
+  - name: Marketing Agency
+    url: 'http://www.marksite-agency.com'
+    type: external
